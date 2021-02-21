@@ -11,7 +11,7 @@
 ![Twitter]("https://twitter.com/fayred_fr")
 
 ### CTF
-- ![Root-me]("https://www.root-me.org/Fayred")
-- ![Tryhackme]("https://tryhackme.com/p/Fayred")
-- ![Hackthebox]("https://www.hackthebox.eu/home/users/profile/107426")
-- ![NewbieContest]("https://www.newbiecontest.org/index.php?page=info_membre&id=88794")
+- [Root-me]("https://www.root-me.org/Fayred")
+- [Tryhackme]("https://tryhackme.com/p/Fayred")
+- [Hackthebox]("https://www.hackthebox.eu/home/users/profile/107426")
+- [NewbieContest]("https://www.newbiecontest.org/index.php?page=info_membre&id=88794")
