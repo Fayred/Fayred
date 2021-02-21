@@ -8,7 +8,8 @@
 ----------------------------------------------------------------------------------------------------
 
 ### Social Network
-[Twitter](https://twitter.com/fayred_fr)
+  -[Twitter](https://twitter.com/fayred_fr)
+  - Discord : Fayred#1337
 
 ### CTF
 - [Root-me](https://www.root-me.org/Fayred)
