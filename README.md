@@ -1,16 +1,17 @@
-### Hi there 👋
+## Fayred
 
-<!--
-**Fayred/Fayred** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Github Stats
 
-Here are some ideas to get you started:
+![TopLang](https://github-readme-stats.vercel.app/api/top-langs/?username=Fayred&layout=compact)
+![FayredStats](https://github-readme-stats.vercel.app/api?username=Fayred)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+----------------------------------------------------------------------------------------------------
+
+### Social Network
+![Twitter]("https://twitter.com/fayred_fr")
+
+### CTF
+- ![Root-me]("https://www.root-me.org/Fayred")
+- ![Tryhackme]("https://tryhackme.com/p/Fayred")
+- ![Hackthebox]("https://www.hackthebox.eu/home/users/profile/107426")
+- ![NewbieContest]("https://www.newbiecontest.org/index.php?page=info_membre&id=88794")
