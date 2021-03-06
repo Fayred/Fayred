@@ -12,6 +12,7 @@
   - Discord : Fayred#1337
 
 ### CTF
+- [Ctftime](https://ctftime.org/team/141102)
 - [Root-me](https://www.root-me.org/Fayred)
 - [Tryhackme](https://tryhackme.com/p/Fayred)
 - [Hackthebox](https://www.hackthebox.eu/home/users/profile/107426)
