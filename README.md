@@ -9,7 +9,7 @@
 
 ### Social Network
   - [Twitter](https://twitter.com/fayred_fr)
-  - Discord : Fayred#1337
+  - Discord : Fayred#0156
 
 ### CTF
 - [Ctftime](https://ctftime.org/team/141102)
