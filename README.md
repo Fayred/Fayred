@@ -16,4 +16,5 @@
 - [Root-me](https://www.root-me.org/Fayred)
 - [Tryhackme](https://tryhackme.com/p/Fayred)
 - [Hackthebox](https://app.hackthebox.eu/profile/107426)
+- [247CTF](https://247ctf.com/progress/Fayred)
 - [NewbieContest](https://www.newbiecontest.org/index.php?page=info_membre&id=88794)
