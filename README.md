@@ -18,3 +18,6 @@
 - [Hackthebox](https://app.hackthebox.eu/profile/107426)
 - [247CTF](https://247ctf.com/progress/Fayred)
 - [NewbieContest](https://www.newbiecontest.org/index.php?page=info_membre&id=88794)
+
+### 🤖 Algo :
+- [CodinGame](https://www.codingame.com/contribute/view/80314e1a02be4d773e3f14d873fe2f434e89)
