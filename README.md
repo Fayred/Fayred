@@ -20,4 +20,4 @@
 - [NewbieContest](https://www.newbiecontest.org/index.php?page=info_membre&id=88794)
 
 ### 🤖 Algo :
-- [CodinGame](https://www.codingame.com/contribute/view/80314e1a02be4d773e3f14d873fe2f434e89)
+- [CodinGame](https://www.codingame.com/profile/370769d83aa84b732aad89267176f3193918072)
