@@ -21,3 +21,4 @@
 
 ### 🤖 Algo :
 - [CodinGame](https://www.codingame.com/profile/370769d83aa84b732aad89267176f3193918072)
+- [CodeWars](https://www.codewars.com/users/Fayred_)
