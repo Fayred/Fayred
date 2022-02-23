@@ -1,15 +1,7 @@
-##  🇫🇷 Fayred
-
-### 📊 Github Stats :
+##  Fayred
 
 ![FayredStats](https://github-readme-stats.vercel.app/api?username=Fayred&theme=tokyonight&hide_border=true&border_radius=16)
 ![TopLang](https://github-readme-stats.vercel.app/api/top-langs/?username=Fayred&layout=compact&theme=tokyonight&hide_border=true&border_radius=16)
-
-----------------------------------------------------------------------------------------------------
-
-### 🌐 Social Network :
-  - [Twitter](https://twitter.com/fayred_fr)
-  - Discord : Fayred#0156
 
 ### 🚩 CTF :
 - [Ctftime](https://ctftime.org/user/84644)
