@@ -2,8 +2,8 @@
 
 ### 📊 Github Stats :
 
-![FayredStats](https://github-readme-stats.vercel.app/api?username=Fayred&show_icons=true&theme=tokyonight)
-![TopLang](https://github-readme-stats.vercel.app/api/top-langs/?username=Fayred&layout=demo&theme=tokyonight)
+![FayredStats](https://github-readme-stats.vercel.app/api?username=Fayred&theme=tokyonight&hide_border=true&border_radius=16)
+![TopLang](https://github-readme-stats.vercel.app/api/top-langs/?username=Fayred&layout=compact&theme=tokyonight&hide_border=true&border_radius=16)
 
 ----------------------------------------------------------------------------------------------------
 
@@ -14,10 +14,6 @@
 ### 🚩 CTF :
 - [Ctftime](https://ctftime.org/user/84644)
 - [Root-me](https://www.root-me.org/Fayred)
-- [Tryhackme](https://tryhackme.com/p/Fayred)
-- [Hackthebox](https://app.hackthebox.eu/profile/107426)
-- [247CTF](https://247ctf.com/progress/Fayred)
-- [NewbieContest](https://www.newbiecontest.org/index.php?page=info_membre&id=88794)
 
 ### 🤖 Algo :
 - [CodinGame](https://www.codingame.com/profile/370769d83aa84b732aad89267176f3193918072)
